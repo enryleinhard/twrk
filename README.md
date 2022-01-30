@@ -1,6 +1,6 @@
 # CityHack22 Project Submission
 ## Project: Together We Work - TWRK
-<img src="src\assets\2x\Asset2.png" width="200" alt="project_logo"/>
+<img src="./assets/Asset2.png" width="200" alt="project_logo"/>
 
 ## Team: Team Anagata
 ## Members
