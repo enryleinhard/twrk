@@ -30,13 +30,13 @@ We use machine-learning based matchmaking to best suit our users’ interest and
 <img src="./assets/screenshot-2.png" width="500" alt="screenshot"/></br>
 <img src="./assets/screenshot-3.png" width="500" alt="screenshot"/></br>
 
-To discover other users’ project, we provide a feed page where our user can browse through others’ work and find project inspirations.
+To discover other users’ projects, we provide an explore page where users can join, browse through others’ work or, find project inspirations. The explore page were made based on recommendation and user’s preference, enable user to receive their desired projects.
 
 ## 3. Built-in Task Oriented Feature
 
 <img src="./assets/screenshot-4.png" width="500" alt="screenshot"/></br>
 
-Our website also provide a task-helper feature which is a to-do list where group members can use when doing the project. Upon completion of each task, members can utilize this feature to help them achieve progress on their work.
+Our website also provide a task-helper feature which is a to-do list where group members can use when doing the project. Upon completion of each task, members can utilize this feature to help them achieve their work. 
 
 ## Tech used (as many as required)
 1. JavaScript
