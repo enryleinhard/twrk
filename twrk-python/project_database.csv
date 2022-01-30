@@ -1,0 +1,203 @@
+projectId,projectType,projectSkills
+9811ac69-8a31-4318-a945-44ac1e3efc87,toDoList machineLearning dataEngineering foodPhotography businessPlan database data cinematography,ada c lua ruby r cobol haskell php projectManager
+951a3a5d-d3ec-4cd7-a24e-4230d727c7c0,marketingStrategy,cobol
+20e58441-b7bf-491e-988c-65b8cc5433f4,UI/UX database dataAnalysis illustration design mobileApplication machineLearning webSecurity,dart pascal objectiveC
+60362ea5-1505-46b7-9f28-966ffdfe0c70,UI/UX videoGame discordBot database foodPhotography android marketAnalysis associationRuleMining dataArchitecture,adobeIllustrator haskell c++ c
+c4134cbf-0209-4482-80b3-605c7e743ab1,fraudDetection database videoGame associationRuleMining bussinesRecommendations android,lua haskell groovy adobeIllustrator java visualBasic javascript
+21261af6-4f9b-4cc9-841b-a85bf0b0e275,design videoEditing dataArchitecture maintenance dataCleaning,pascal unity abap
+c208d974-6949-46cc-81de-f82e666d9974,riskAnalysis,c ada kotlin
+1687f7e9-fa0a-4759-ad3e-8a28fdfbeefd,businessPlan database dataCleaning foodPhotography neuralNetwork associationRuleMining marketingStrategy dataArchitecture,perl groovy adobeIllustrator objectiveC
+e4d315af-b31b-4e12-a790-1675003916fc,dataAnalysis dataVisualization,adobePremierePro haskell c++ php abap
+1d88e93f-7300-4891-8bfe-e586a5a195f3,cinematography database fraudDetection ios,r ada
+90dd95cf-b2a1-46c6-b053-dd2f422ca7a5,webSecurity design videoEditing neuralNetwork website newsletter,r c
+dc6dc22b-e1da-455c-bdaf-6af3e9649761,cinematography toDoList dataCleaning data dataAnalysis database eCommerce,abap figma perl cobol scala javascript lua swift pascal
+11ad8616-4305-43b6-9887-b1f3ba9e1d39,videoEditing ios newsletter foodPhotography dataCleaning associationRuleMining eCommerce,ada
+32c3d41d-180e-45d7-9214-df63ec7c6534,UI/UX bussinesRecommendations android,ruby figma adobePhotoshop javascript java kotlin rust abap
+d36860cc-c8f3-46a1-949f-70b63976ac32,videoGame illustration associationRuleMining website dataMining bussinesRecommendations businessPlan webSecurity machineLearning,visualBasic go matlab
+c90556a8-d68b-4cbf-b986-8ae58e69fd61,dataEngineering eCommerce,rust adobeIllustrator php haskell objectiveC java r projectManager
+24057c1f-4da8-46a6-b38d-3fd9a5634197,newsletter mobileApplication,cobol
+2d4f71ac-673a-4c6b-9ab5-e33662cd3abd,toDoList discordBot machineLearning bussinesRecommendations UI/UX android eCommerce data marketingStrategy,rust ruby abap r typescript visualBasic pascal julia
+a2008347-cb26-4398-ab88-250d6a434eab,eCommerce bussinesRecommendations dataCleaning ios dataArchitecture riskAnalysis UI/UX marketingStrategy discordBot,adobePremierePro
+fc010031-21ba-45ac-8a67-41c09faa12d4,ios newsletter videoGame businessPlan,java adobePremierePro php c adobePhotoshop visualBasic objectiveC dart
+30c22760-5b47-40a6-9bea-9452924d77b3,android toDoList dataAnalysis website newsletter artificialIntelligence UI/UX dataCleaning database,php go adobePhotoshop adobeIllustrator lua abap pascal ruby
+167321ae-2357-4d5b-aca9-8350bf0d8197,dataCleaning fraudDetection website dataArchitecture design,typescript php cobol python
+5d89352e-cdc0-4900-80e4-3a47598b0a39,marketingStrategy dataAnalysis toDoList cinematography,figma
+31fea94e-0880-4210-b342-406ca89cb42c,website foodPhotography ios machineLearning artificialIntelligence dataVisualization dataCleaning fraudDetection neuralNetwork,adobePremierePro cobol perl java unity projectManager rust julia
+a68b9191-35ec-4c75-8551-4a336a072e8c,discordBot android dataVisualization videoEditing UI/UX neuralNetwork,rust
+3ec8acb9-828a-45bc-bb12-cd425088ce44,design android dataMining machineLearning riskAnalysis marketAnalysis,unity php go
+52c8dc44-58fc-4412-a43c-ce787abdf120,database videoEditing neuralNetwork dataArchitecture maintenance,unity swift
+a6e99b9d-fc60-4695-bfdb-625f565a34ef,data marketingStrategy,unity typescript objectiveC cobol projectManager matlab
+8a2f1137-4849-43bf-a78d-7fdc88f2ebd9,dataAnalysis maintenance UI/UX webSecurity,julia figma pascal rust haskell r javascript adobeIllustrator
+df9f0f94-e550-4af5-8215-651ba807b325,mobileApplication,cobol pascal ruby unity
+285e6a7e-16eb-499c-b68c-ef349a44e758,videoEditing,swift
+f71f6c42-ac77-4d6f-8654-5c1a3d5d8d6d,dataVisualization dataArchitecture businessPlan riskAnalysis associationRuleMining fraudDetection machineLearning,lua unity kotlin rust r perl projectManager cobol
+ad7df66d-a1f5-4634-855a-7d6789c18c5e,illustration associationRuleMining dataEngineering machineLearning,objectiveC javascript pascal typescript haskell c++ php julia
+21fe9363-9655-4590-80f7-42bbb2648225,website dataCleaning neuralNetwork dataEngineering design dataArchitecture webSecurity eCommerce newsletter,typescript rust perl r dart c#
+6e96b560-d6b6-49f7-94cc-8789b1792579,design,python objectiveC java
+03b6da88-8351-42a3-8e2c-2287eb3125fa,android illustration UI/UX videoEditing discordBot mobileApplication neuralNetwork website,typescript kotlin
+eb71cdba-4cc7-49c6-9e05-d5aef3833f10,website maintenance,typescript pascal ruby adobePremierePro cobol visualBasic objectiveC python
+a80b6e68-c7c1-48c2-b479-7436d05db276,machineLearning artificialIntelligence dataArchitecture riskAnalysis dataVisualization marketingStrategy,lua ada adobePhotoshop r dart scala adobePremierePro matlab c
+fc555ca8-eabe-4b8c-880c-63d8deedc386,videoEditing marketAnalysis dataArchitecture riskAnalysis foodPhotography database,adobePhotoshop figma unity ada pascal visualBasic
+8372d1d9-9b7b-41e0-bc5e-fe72d53e69d8,bussinesRecommendations neuralNetwork videoEditing maintenance database android associationRuleMining dataMining,pascal lua dart php c
+9579d4ff-c8b0-4999-bff0-fa417fffb8f6,website videoGame,c
+f6cebd0a-82cc-4085-a6df-fa6c1fc94c78,foodPhotography eCommerce associationRuleMining android website dataArchitecture toDoList videoEditing,ruby adobePremierePro kotlin adobePhotoshop matlab abap javascript
+a8945a55-304c-46da-922c-38e3f4a202e1,design UI/UX marketAnalysis database marketingStrategy neuralNetwork foodPhotography dataMining toDoList,figma
+6e7c0e88-2781-4eb7-a553-77c1cd866ff8,dataMining website dataAnalysis ios videoGame cinematography mobileApplication data,groovy javascript
+238d1f8a-d712-4b67-808d-eabdb71308fd,mobileApplication,objectiveC java adobeIllustrator ruby abap dart visualBasic
+4620ddae-91b1-4e47-bbfe-fa43fcc2d8a0,android artificialIntelligence dataEngineering maintenance marketingStrategy,matlab rust java figma
+59450d35-5bf4-4c0b-a385-a86ab799dd6c,marketAnalysis maintenance dataEngineering data foodPhotography,r dart ruby visualBasic
+829050af-f8ef-44fb-ade3-15cacb332e57,machineLearning fraudDetection,r objectiveC vba javascript groovy perl dart pascal
+216664aa-a00e-46bc-91b0-8135a48d3b27,riskAnalysis marketingStrategy dataCleaning associationRuleMining,c matlab java adobeIllustrator
+dbd44066-9924-4dca-bce3-503da8dc034d,machineLearning foodPhotography maintenance dataAnalysis,ada visualBasic
+9fb92df6-8bb9-4801-a3c6-84dece1b3c24,data webSecurity marketAnalysis associationRuleMining videoEditing newsletter,adobePhotoshop swift javascript perl lua
+787ece89-f587-4ff1-88f4-f8e2bc6d6a0c,dataEngineering dataAnalysis associationRuleMining database dataCleaning machineLearning UI/UX website,ada php groovy vba pascal go kotlin adobePhotoshop
+4efad147-8f38-4f59-b2b7-3ed350854690,UI/UX businessPlan eCommerce artificialIntelligence dataAnalysis associationRuleMining videoGame discordBot,dart groovy vba matlab kotlin projectManager adobePhotoshop
+27faf88a-ac40-4f09-9034-e13c4c1fdd56,machineLearning,python javascript go adobeIllustrator
+5e55c648-28dc-4b75-97b4-55e851432163,neuralNetwork mobileApplication toDoList dataArchitecture,cobol visualBasic adobeIllustrator objectiveC ada typescript
+4a10e1a0-4da8-4903-a8f1-155999f0df0a,videoEditing businessPlan machineLearning dataCleaning android marketingStrategy,go perl swift
+77531c08-836b-4d27-a1b6-a67df6d46cf6,marketAnalysis videoEditing videoGame newsletter,adobeIllustrator projectManager typescript pascal c++ rust abap vba groovy
+0f701675-9259-40a3-9e24-7e160ee300d9,website newsletter associationRuleMining videoEditing discordBot marketingStrategy,kotlin r figma
+07df22f5-c804-40a6-9fc0-caeef5ac7d8f,newsletter ios cinematography neuralNetwork webSecurity,unity projectManager ada r
+baafaf06-3349-46b4-bdef-3d2f93c11d51,design neuralNetwork ios associationRuleMining website dataCleaning dataEngineering android,c++ ada projectManager adobePremierePro rust abap swift
+aa570b23-b7f9-4437-9e6b-32a3c3a12fdf,riskAnalysis data marketAnalysis videoEditing database,perl go lua dart typescript visualBasic groovy
+de571b05-1410-4042-a86f-3e83892c0eb6,businessPlan fraudDetection foodPhotography database newsletter,projectManager cobol go perl pascal ada scala swift abap
+b1b24567-a482-475c-9e40-587c4c396f63,videoEditing fraudDetection newsletter data artificialIntelligence,java c++ typescript abap r javascript dart kotlin cobol
+2785081c-20c0-402d-a4d6-843718fa11af,marketAnalysis,matlab go typescript haskell adobePhotoshop
+828d2761-78db-4baf-9e01-280eae3459f5,businessPlan dataAnalysis artificialIntelligence webSecurity associationRuleMining videoGame eCommerce design neuralNetwork,projectManager figma swift abap c++ php
+756b9b87-3df3-4dfe-a2b2-6b0d6bb34ce4,riskAnalysis eCommerce businessPlan discordBot,julia vba pascal typescript
+9e256b7c-50b1-4ec2-930d-f64bbb504cdd,marketAnalysis database,adobePhotoshop java javascript c perl php
+55ea5f52-bd9f-4ec3-8c80-6ce0809d265f,foodPhotography cinematography marketingStrategy bussinesRecommendations dataArchitecture dataCleaning database dataMining,haskell vba projectManager
+b67abb4b-fdd0-4d39-9c8a-d0eca6502c71,dataArchitecture marketAnalysis businessPlan neuralNetwork dataCleaning dataMining database,ruby python lua cobol c#
+4c228a1d-2fa3-4fab-a0ae-31ee4be781ea,bussinesRecommendations,haskell php projectManager c# groovy
+6580d49e-65db-4f83-8bc1-b51921ca3a7b,businessPlan neuralNetwork discordBot dataVisualization newsletter bussinesRecommendations,perl cobol swift javascript objectiveC
+6c78e670-8a63-4ebe-81a1-2eb1204948b6,cinematography fraudDetection businessPlan marketingStrategy webSecurity dataAnalysis,adobePhotoshop go kotlin abap groovy adobeIllustrator javascript python perl
+7b389826-9ef4-46e3-9f7f-5ac184e47c41,maintenance foodPhotography,c++ vba cobol dart php python c adobeIllustrator
+067345bd-cbdb-4369-963a-2097486f127e,dataEngineering UI/UX database newsletter dataVisualization dataAnalysis marketingStrategy website dataCleaning,adobePremierePro objectiveC r
+3b47246d-7a7f-46e6-bb60-8c1ed680368f,eCommerce ios discordBot videoGame videoEditing database bussinesRecommendations businessPlan,adobePhotoshop java adobePremierePro dart
+75815553-80cf-42d9-ab87-5ee2d0655ccb,webSecurity database dataMining bussinesRecommendations cinematography illustration dataAnalysis dataVisualization,dart c++ typescript adobePremierePro
+c04991e2-5dc5-4500-9346-57e6c96ee907,fraudDetection dataVisualization neuralNetwork marketingStrategy machineLearning dataCleaning,python abap groovy perl unity c# visualBasic javascript adobeIllustrator
+d6a621da-0b23-46df-bb95-7f68bc6d76ba,dataVisualization dataEngineering ios data artificialIntelligence webSecurity newsletter,groovy vba php
+7429dd93-5a41-4c9e-aafe-bb5349e71546,UI/UX riskAnalysis associationRuleMining database toDoList dataAnalysis fraudDetection mobileApplication marketingStrategy,figma ada haskell
+6a9a1b2e-ee40-41ea-9037-be9c0fce8527,fraudDetection foodPhotography newsletter associationRuleMining toDoList businessPlan dataAnalysis artificialIntelligence webSecurity,java typescript adobeIllustrator
+cfeeb4c2-bc27-4bc6-bdfd-6bbaef564f7a,website android foodPhotography,lua java adobeIllustrator c c++ matlab julia
+57479926-09f0-4421-bec3-7354da22d025,ios webSecurity,matlab
+bc245dd3-1e57-4b1d-95dc-414d86785bb5,dataArchitecture riskAnalysis webSecurity android cinematography businessPlan bussinesRecommendations artificialIntelligence,pascal
+63e6f5e5-c595-4ff9-af9d-e2fc89e75b31,marketingStrategy machineLearning database artificialIntelligence android dataArchitecture eCommerce webSecurity newsletter,kotlin swift perl groovy python adobeIllustrator
+56a27335-7f4a-45d1-9a17-4282f2536a8f,videoGame dataMining,c# r
+0cad0e84-ffe8-4083-8344-80588b0c133a,database,abap javascript projectManager dart objectiveC perl
+e619b491-f5df-4c2e-898f-329f7600f11f,eCommerce data artificialIntelligence database ios discordBot videoGame machineLearning mobileApplication,objectiveC groovy c# scala javascript unity adobePremierePro c++ go
+573e190e-0a17-4294-9d92-88d3d1e256dd,toDoList businessPlan marketAnalysis dataVisualization videoEditing bussinesRecommendations dataEngineering dataAnalysis newsletter,lua matlab
+938b973b-3dab-455e-82f0-7d3afc8b605f,maintenance dataArchitecture fraudDetection mobileApplication,unity scala haskell figma c adobeIllustrator ruby projectManager
+1dce2cfe-f207-457c-a330-1adccae70372,dataCleaning associationRuleMining toDoList riskAnalysis android maintenance ios,objectiveC adobePhotoshop unity ada matlab c# projectManager
+9d35e3e7-895e-419a-ad2c-a56cc4f43fb3,associationRuleMining ios,cobol python julia figma ruby matlab ada
+ccb70275-0d68-42db-8399-4fc7acbb5351,videoEditing ios dataVisualization machineLearning bussinesRecommendations maintenance dataEngineering associationRuleMining toDoList,groovy java haskell cobol ada unity adobeIllustrator
+22cdf853-e38e-4c0d-b1c4-98cb5c5a4003,cinematography,pascal python kotlin c++ scala
+b04b4d7d-2cd8-498b-ab28-c76b21e1a628,mobileApplication dataVisualization marketAnalysis businessPlan newsletter android foodPhotography,pascal haskell adobePremierePro cobol python java
+e2a954a3-f576-4a8c-8999-729b44515bc2,eCommerce marketingStrategy neuralNetwork illustration foodPhotography marketAnalysis videoGame newsletter,go c adobeIllustrator javascript php python swift ruby unity
+97ddd936-f67c-47e0-ab25-b005e7ead295,neuralNetwork dataAnalysis machineLearning eCommerce dataMining artificialIntelligence,lua
+feb6d1a0-022f-4309-8397-44cd9891994e,illustration design eCommerce dataEngineering,perl matlab r c ada
+693a7048-f722-4ebd-8718-f6628befba45,videoEditing businessPlan UI/UX,c
+62517833-e1c8-4ba2-9b58-bb689275b1ae,cinematography maintenance dataMining,perl lua visualBasic scala java unity vba
+639e1c3f-b927-4082-88a0-01ae67d40128,fraudDetection marketAnalysis neuralNetwork videoEditing UI/UX machineLearning,scala adobeIllustrator rust java ada pascal c# r
+4ac10d8b-6cc3-40b8-85cb-74585d94cf8c,associationRuleMining dataVisualization database foodPhotography website,php c#
+dc45b833-4c3b-45fe-8347-5b9c07998266,discordBot,unity scala abap cobol vba python
+2ebc413f-70d2-425f-84a3-450fe2535b03,dataMining videoEditing artificialIntelligence database design,haskell adobePhotoshop
+5f4ae144-ce27-4b93-ab69-1a0cdccf6846,newsletter dataAnalysis dataCleaning website fraudDetection,dart swift javascript go
+5f9c8ed3-2040-458a-83ce-9090d24599e3,discordBot newsletter,visualBasic ruby adobePhotoshop swift c
+19c12c98-c7d5-454e-a662-a4044cb8a4d0,dataCleaning neuralNetwork riskAnalysis bussinesRecommendations videoEditing dataEngineering,c# c kotlin groovy figma pascal cobol
+e0ae96ba-30f8-43c8-a779-dc1796df892c,cinematography illustration dataMining newsletter fraudDetection,c adobePhotoshop perl
+7fa1db18-d552-47da-9ea4-6feec9e0f14a,riskAnalysis dataMining data,groovy haskell adobePhotoshop typescript php r
+32d844fa-e10e-4b83-bef7-1f912a6f2948,mobileApplication ios fraudDetection cinematography businessPlan database dataCleaning eCommerce artificialIntelligence,pascal adobePremierePro php c++ cobol
+96e51d23-1422-4d70-884d-c6d79117a96f,artificialIntelligence cinematography,c++
+4dc715cc-25d7-428b-9068-1b35fb935af6,dataArchitecture newsletter illustration cinematography dataVisualization toDoList riskAnalysis,visualBasic pascal go adobePremierePro vba dart java
+99072729-4e59-457e-98bb-796ab475d192,dataVisualization dataEngineering neuralNetwork website design dataMining businessPlan illustration,adobePremierePro projectManager cobol c# adobeIllustrator php adobePhotoshop
+fd3c588b-7988-4103-9e24-09fc355bc9ac,toDoList dataArchitecture eCommerce dataCleaning marketingStrategy discordBot dataMining,julia javascript typescript projectManager perl
+3229f54b-0332-4d2b-ad89-02144f3896b5,toDoList marketAnalysis marketingStrategy data,lua c
+7d498159-0572-44cf-881b-a0bdd28f2822,dataCleaning marketingStrategy bussinesRecommendations UI/UX artificialIntelligence,lua
+7c48de3e-d40f-413f-81b3-9811b4b64242,fraudDetection eCommerce artificialIntelligence marketAnalysis android newsletter,dart kotlin scala
+1deaa58c-e5c9-4edc-b637-8554385771fe,android,python haskell
+a888fadd-df2a-4ed6-8ab7-083b1fe452f9,fraudDetection cinematography dataVisualization foodPhotography,perl vba
+66fa9a37-f78f-4a1f-8f37-a8a81a78eb2d,maintenance,julia typescript
+25de1e84-705a-4e75-9bc6-2121ecfd9e4d,maintenance,c#
+64ef4b13-26e8-4a92-ac9d-527fb12d59ad,machineLearning riskAnalysis maintenance ios cinematography dataAnalysis mobileApplication,matlab objectiveC go ada
+4251b572-11b5-4f10-a0c8-6cd073983378,bussinesRecommendations marketingStrategy eCommerce dataCleaning videoGame,c ruby pascal ada julia adobeIllustrator c++ kotlin
+5c351ccf-d1b0-4db8-983a-45a91008406c,marketingStrategy toDoList artificialIntelligence mobileApplication marketAnalysis discordBot,vba
+10773d26-5386-4827-aa0b-6f5566675f14,UI/UX,swift vba unity haskell perl c++ julia
+be879a85-5d3f-417a-a579-31250acf2204,associationRuleMining toDoList,adobePhotoshop vba swift lua scala c++
+d5280321-1a0a-41b3-beba-a7f42e1ad66e,machineLearning dataVisualization toDoList data foodPhotography design marketingStrategy associationRuleMining,julia python figma perl
+ea7bfaff-e838-4b8d-bcc3-32371df7c0ad,videoGame riskAnalysis data webSecurity eCommerce dataAnalysis,haskell groovy ruby php scala
+65816d69-e5c1-4901-86aa-c50c906ea072,illustration,rust adobeIllustrator scala pascal ruby python javascript kotlin
+091e7ec2-a97a-4f86-ae20-9c042b75b743,webSecurity UI/UX businessPlan dataMining fraudDetection,cobol
+5091fd92-4a09-4b98-a576-6c5dd3b14f18,videoGame,dart adobePremierePro julia unity go java
+c4dd4726-be5f-4813-a69a-693fb93b5cd1,marketAnalysis,php python c cobol figma julia haskell
+3b152e21-6485-4ba6-86ec-d0432aee0669,dataCleaning machineLearning bussinesRecommendations UI/UX toDoList maintenance database website associationRuleMining,pascal c scala php go perl
+bae3ba14-7ffb-4438-918c-9b66f05ff8df,data fraudDetection dataArchitecture associationRuleMining videoGame website database,figma groovy abap kotlin adobePremierePro java swift
+de6be941-099e-4f89-bf4c-fd419b59ec6e,neuralNetwork,pascal cobol visualBasic javascript c# php figma julia
+7ee5a3c0-fe71-46d0-b177-0562901dc71a,videoGame dataEngineering cinematography toDoList machineLearning artificialIntelligence marketAnalysis design bussinesRecommendations,matlab typescript groovy
+57a06f5a-4ae7-4e0f-8184-7f0684e5b681,newsletter videoGame dataAnalysis android,rust kotlin scala go objectiveC
+4e32fba0-8ede-4243-8879-2ad99f1dce2d,cinematography fraudDetection UI/UX dataVisualization newsletter toDoList dataCleaning associationRuleMining,haskell lua adobePhotoshop
+379dd4d3-88ef-4f9e-b275-e961bac04169,website,swift java adobePhotoshop dart ruby
+e7167e9b-e3f7-4583-9036-a9db1c889532,dataEngineering cinematography riskAnalysis,python visualBasic
+8dbb4d5d-4b38-43e7-b255-cab7e9a1217d,website ios artificialIntelligence,projectManager rust
+84a94819-078f-4a5c-bf12-b3ebe78cf540,dataCleaning fraudDetection artificialIntelligence riskAnalysis neuralNetwork videoGame eCommerce businessPlan videoEditing,pascal groovy projectManager rust unity cobol r javascript abap
+fcafd002-58ad-463f-a152-f0b67308f11d,marketAnalysis fraudDetection,c c# cobol julia lua
+d4a0c51a-e4b4-4d03-bdec-6bcc77a6e528,videoGame cinematography artificialIntelligence maintenance illustration dataCleaning toDoList design,c++ julia
+91811641-e6dd-4ae4-a531-0556e3ecbc5f,machineLearning dataAnalysis,go ada
+04a49a3b-de28-4838-b3fa-2bb91cf99c54,dataAnalysis riskAnalysis UI/UX dataMining artificialIntelligence ios cinematography fraudDetection database,java c#
+a5412eba-6ba4-4011-9a58-d75f7ca7b7fb,riskAnalysis dataArchitecture dataVisualization dataMining dataCleaning,swift unity groovy ada perl adobePhotoshop kotlin
+17117cd9-8127-498c-90c8-ab8dafa24262,dataMining artificialIntelligence,rust python c figma java matlab julia typescript c++
+29ca1c84-ccf6-4748-8e99-c5438ffe64b4,dataArchitecture mobileApplication eCommerce newsletter,unity adobePhotoshop perl groovy scala javascript julia
+acca8201-6213-4fff-99e2-ee9af4499214,illustration foodPhotography android toDoList marketAnalysis,objectiveC go
+0936d98c-9596-4c47-af1a-ed152431461b,foodPhotography database dataArchitecture neuralNetwork illustration marketingStrategy dataVisualization dataEngineering toDoList,julia projectManager
+da42fd9e-bd59-4183-bdf1-32f5c5263ba5,videoGame,vba c ruby rust
+4bb1c8ad-153b-41a4-a1e7-34a4337c72c8,website videoGame dataVisualization mobileApplication dataArchitecture eCommerce neuralNetwork,swift kotlin projectManager matlab visualBasic dart c
+f7592174-3623-4d2d-b62e-229c73a9900b,newsletter fraudDetection,adobeIllustrator adobePhotoshop unity
+55428f65-43dc-4920-aed8-fd8c69286202,design newsletter android discordBot illustration,haskell cobol c
+79b8cf84-feb2-4102-a89e-928796d880f3,website neuralNetwork mobileApplication dataEngineering cinematography,matlab lua php abap c# figma haskell scala adobePremierePro
+4d8546d7-9176-4cfb-92c0-fec464b74c48,artificialIntelligence webSecurity dataArchitecture cinematography riskAnalysis dataCleaning toDoList,vba go unity c c++
+e11bd49c-427a-4b03-9924-163a7d9eb541,videoEditing newsletter foodPhotography dataCleaning dataArchitecture,cobol java figma c#
+9eab4d65-1081-4ad4-80d3-175632e8b30f,cinematography machineLearning fraudDetection ios,rust projectManager
+c4fb6111-f803-4de6-a9c5-cc78f9966ab4,fraudDetection bussinesRecommendations UI/UX associationRuleMining dataMining artificialIntelligence maintenance newsletter videoEditing,php pascal cobol
+0d22abab-7d60-4906-ae11-fc00d516b544,videoEditing dataEngineering,unity c#
+fa2f24b3-ae96-4ded-b4f5-45e176c7e49e,design bussinesRecommendations dataAnalysis android artificialIntelligence maintenance,julia
+2b0c38cd-f72f-4109-a023-23933e94d385,cinematography webSecurity dataMining dataCleaning,adobeIllustrator ada
+691af95b-25c4-4922-95a9-fd5560397590,businessPlan newsletter riskAnalysis database eCommerce dataArchitecture,projectManager adobeIllustrator haskell scala matlab figma r abap
+6235f7fb-9277-47a4-a3da-246813d41399,videoGame toDoList illustration eCommerce neuralNetwork dataEngineering,figma abap r scala
+7dfedabd-ecb0-4819-b563-7466e77c6439,machineLearning dataMining android artificialIntelligence bussinesRecommendations discordBot foodPhotography,projectManager c# haskell groovy cobol vba julia adobePremierePro python
+b3ba95f3-f7ef-461a-950b-16f24e1993d3,toDoList machineLearning dataMining design UI/UX database bussinesRecommendations webSecurity,julia figma c++ scala haskell perl objectiveC pascal
+ff1399d4-1ebe-444d-8ae7-64c9672c012e,mobileApplication newsletter,cobol kotlin javascript perl rust adobeIllustrator swift
+43c007c2-a451-49fe-b6b5-89196bab9c6c,bussinesRecommendations mobileApplication dataVisualization riskAnalysis discordBot toDoList database dataEngineering webSecurity,go lua c matlab java adobeIllustrator adobePhotoshop rust objectiveC
+1e88e5c8-7c25-40d5-819b-ba964e11e207,dataMining illustration artificialIntelligence dataEngineering android dataVisualization UI/UX foodPhotography ios,objectiveC adobePremierePro c ruby go
+950fda36-6444-49cb-af13-7e3dd27eb089,webSecurity ios newsletter bussinesRecommendations eCommerce android illustration marketingStrategy marketAnalysis,julia kotlin rust ada adobePremierePro
+4eb3c39f-55f4-440e-94de-2b26c72bfa28,webSecurity UI/UX database dataMining businessPlan,objectiveC pascal
+33ccdf52-f1c2-4812-bdd4-176b75b84d29,eCommerce design machineLearning dataEngineering android mobileApplication fraudDetection,visualBasic cobol scala typescript c++
+7a108259-4fe9-439a-ae1b-21653d709ad8,dataEngineering illustration dataArchitecture businessPlan android videoGame artificialIntelligence ios webSecurity,c++ javascript c pascal lua unity python julia
+7e6b7d8c-3864-4f5c-a857-080ac018248c,discordBot webSecurity toDoList riskAnalysis UI/UX,kotlin haskell c++
+433fa813-7261-421d-8076-63e9b3be554e,toDoList ios design mobileApplication riskAnalysis artificialIntelligence dataMining dataCleaning,adobeIllustrator pascal kotlin java swift
+970fae98-1e1c-4d09-a9e5-6b9607b46cef,website UI/UX database marketAnalysis maintenance artificialIntelligence newsletter cinematography dataVisualization,r adobePremierePro go rust unity
+cf01ab7d-9a1a-4cee-978e-65180e575b79,database videoEditing,adobePhotoshop php r swift matlab adobeIllustrator
+9e55e46d-d553-4ca4-aaab-dc58a3c0621a,mobileApplication bussinesRecommendations website toDoList foodPhotography videoEditing businessPlan,vba perl
+7324db54-044f-4bc3-910d-e70d24f089d1,newsletter toDoList cinematography maintenance videoGame foodPhotography artificialIntelligence,typescript swift vba r adobePremierePro
+8e540728-cb93-4a16-911e-3194aeacaef2,neuralNetwork discordBot toDoList videoEditing,figma java adobeIllustrator projectManager objectiveC
+19dd397b-a580-4397-b5dc-7662e7c31f80,fraudDetection dataArchitecture UI/UX,unity ada vba go projectManager r pascal
+16c9d9ca-5718-43a2-ad66-0d370f3717d1,foodPhotography newsletter fraudDetection ios,r figma lua
+ee80da24-9b3d-4094-b5b0-99f00715461e,data machineLearning illustration,vba perl scala go
+7acc44ac-3b29-4908-a0cd-b6af29ec5b5c,ios website,dart ruby go adobePhotoshop
+6bd8b4b3-137a-41ef-a937-5d97536c6081,ios dataAnalysis marketingStrategy,objectiveC
+d76c4e9e-8fd1-495e-ba3a-9b1767b9d6a9,videoGame bussinesRecommendations website,adobeIllustrator julia unity java swift groovy javascript typescript
+8d3138f7-2503-4ee9-9c58-f0584169fe10,discordBot toDoList illustration foodPhotography ios businessPlan videoEditing dataArchitecture cinematography,lua projectManager java visualBasic go javascript swift
+48b86626-1899-4f40-815d-6cac8ea71376,dataEngineering data dataVisualization dataMining maintenance businessPlan UI/UX design,c++ java dart php adobePremierePro ada visualBasic scala
+32b03f8a-0301-49ae-a763-d11cf88e4467,riskAnalysis maintenance ios discordBot website UI/UX dataVisualization,matlab unity objectiveC javascript
+8c96e49f-d448-4117-b4eb-f7518aeb3e60,neuralNetwork data riskAnalysis dataMining,julia dart java lua vba python c
+e57f27be-1e0c-463f-8801-7b2f33f0c8d3,associationRuleMining UI/UX illustration,rust abap unity adobeIllustrator pascal php c# vba
+4c2316aa-cb78-4909-9cd0-49fbc1fdbc28,webSecurity associationRuleMining dataArchitecture,ruby vba pascal c
+0fa7db75-b011-4a06-861a-662237c4f5f7,data dataAnalysis bussinesRecommendations marketAnalysis associationRuleMining,haskell vba adobePhotoshop visualBasic typescript javascript ruby pascal objectiveC
+14e0690a-ad96-47e8-886f-f7208a220e7f,newsletter dataCleaning associationRuleMining ios,projectManager java pascal vba r perl
+65110230-08cf-428b-a65c-0125477874c2,dataEngineering data,r ruby adobePhotoshop visualBasic scala
+18cf6677-d644-47b0-a5a2-1adeec5d1d83,videoGame database eCommerce newsletter foodPhotography maintenance marketingStrategy,lua haskell cobol abap objectiveC c# adobePhotoshop javascript
+6415377d-cbe2-4961-97e2-3fea80e2e1bc,artificialIntelligence discordBot,abap c c++ adobePremierePro julia java lua
+dfc19bfa-aec4-4a6d-bf7a-008b9eb0d710,maintenance dataVisualization UI/UX bussinesRecommendations,adobePremierePro adobeIllustrator pascal typescript r
+c6840d93-9e1a-41ae-bcfe-2552485613d8,dataAnalysis data videoEditing marketingStrategy videoGame ios newsletter businessPlan associationRuleMining,projectManager scala c#
+014caef8-45aa-4dfc-ae83-41bf9e9cca37,ios dataEngineering newsletter discordBot artificialIntelligence videoGame dataAnalysis android,php cobol
+bbc5c0b3-c9cd-4eaf-b673-b3ebc366efbc,website UI/UX eCommerce mobileApplication android,css python javascript figma kotlin
+837b2290-7ed0-4d70-94f1-419bf036880f,cinematography illustration videoEditing,"adobePhotoshop, adobePremierPro"

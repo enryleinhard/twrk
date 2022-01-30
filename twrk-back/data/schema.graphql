@@ -1,0 +1,81 @@
+import { gql } from 'apollo-server-express';
+
+export const typeDefs = gql`
+    type User{
+       id:ID
+       firstName:String
+       lastName:String
+       gender: Gender
+       language: Language
+       age: Int
+       email: String
+       specialization: [String]
+       skills: [String]
+       interests: [String]
+       experience: [String]
+       projects: [Project]
+    }
+
+    type Project {
+        id:ID
+        projectName: String
+        description: String
+        projectSkills: [String]
+        projectType: [String]
+        date: String
+        users: [User]
+    }
+
+    enum Gender {
+        MALE
+        FEMALE
+        OTHER
+    }
+
+    enum Language {
+        ENGLISH
+        MANDARIN
+        CANTONESE
+        INDONESIAN
+    }
+
+    input UserInput {
+        id:ID
+        firstName:String
+        lastName:String
+        gender: Gender
+        language: Language
+        age: Int
+        email: String
+        specialization: [String]
+        skills: [String]
+        interests: [String]
+        experience: [String]
+        projects: [String]
+    }
+
+    input ProjectInput {
+        id:ID
+        projectName: String
+        description: String
+        projectSkills: [String]
+        projectType: [String]
+        date: String
+        users: [String]
+    }
+
+    type Query{
+        getAllUser:[User]
+        getAllProject:[Project]
+        findUser(id:ID):User
+        findProject(id:ID):Project
+    }
+
+    type Mutation{
+        createUser(input:UserInput):User
+        createProject(input:ProjectInput):Project
+    }
+
+`;
+
+

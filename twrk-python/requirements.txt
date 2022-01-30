@@ -1,0 +1,6 @@
+fastapi
+requests
+sklearn
+numpy
+pandas
+simplejson
