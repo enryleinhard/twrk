@@ -11,7 +11,8 @@
 - Stefan Rafael Muljadi
 
 ## Description of the Project (300 words)
-TWRK: Together We Work is a website platform that provides a matchmaking service for selecting group mates in any situation needed. Whether for a personal project or for competitions.  We try to solve the problem of online learning where it is hard to connect with people and find people who share the same interest and skillsets needed when doing a group project. Therefore we come in an all-in-one platform to solve all your group project needs. 
+TWRK: Together We Work is a website platform that provides a matchmaking service for selecting group mates in any situation needed, whether for personal projects or group competitions.  We try to solve the problem of online learning where it is hard to connect with people and find people who share the same interest and skillsets needed when doing a group project. Therefore we come in an all-in-one platform to solve your group project needs. We highlight the user-friendly interface and match-making process using machine learning that pairs people of similar interest/skills needed to create a group together for a project. TWRK can be easily adopted into various educational institutions, eliminating the hassle of choosing members for course group projects and competitions. The TWRK recommender system is also highly suitable for scholars, connecting research from worldwide with similar projects topics or fields needed to support a study. 
+The match-making process uses a content-based approach recommender system. Therefore, the system of TWRK is not limited to software-related projects and is open to all fields and learning interests.
 
 TWRK: Together We Work is made with Vue.js, GraphQL, MongoDB, and Python
 
@@ -20,6 +21,7 @@ TWRK: Together We Work is made with Vue.js, GraphQL, MongoDB, and Python
 ## 1.Matchmaking between people and project
 
 <img src="./assets/screenshot.png" width="500" alt="screenshot"/></br>
+<img src="./assets/screenshot-5.png" width="500" alt="screenshot"/></br>
 
 We use machine-learning based matchmaking to best suit our users’ interest and help them match with the projects. User’s data input about projects preference and user’s skills were collected through the initial personalization to be processed by a content-based recommender system.
 
