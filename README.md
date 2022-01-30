@@ -19,19 +19,22 @@ TWRK: Together We Work is made with Vue.js, GraphQL, MongoDB, and Python
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
 ## 1.Matchmaking between people and project
 
-<img src="./assets/screenshot.png" width="500" alt="project_logo"/></br>
-We use machine-learning based matchmaking to best suit our users’ interest and help them match with the projects. 
+<img src="./assets/screenshot.png" width="500" alt="screenshot"/></br>
+
+We use machine-learning based matchmaking to best suit our users’ interest and help them match with the projects. User’s data input about projects preference and user’s skills were collected through the initial personalization to be processed by a content-based recommender system.
 
 ## 2. Explore Page and Project Feed
 
-<img src="./assets/screenshot-2.png" width="500" alt="project_logo"/></br>
-<img src="./assets/screenshot-3.png" width="500" alt="project_logo"/></br>
-Through our explore page, we  discover other users’ project, we provide a feed page where our user can browse through others’ work and find project inspirations.
+<img src="./assets/screenshot-2.png" width="500" alt="screenshot"/></br>
+<img src="./assets/screenshot-3.png" width="500" alt="screenshot"/></br>
+
+To discover other users’ project, we provide a feed page where our user can browse through others’ work and find project inspirations.
 
 ## 3. Built-in Task Oriented Feature
 
+<img src="./assets/screenshot-4.png" width="500" alt="screenshot"/></br>
 
-We added a task-helper feature which is a to-do list where group members can use when doing the project. Upon completion of each task, members can utilize this feature to help them with their work.
+Our website also provide a task-helper feature which is a to-do list where group members can use when doing the project. Upon completion of each task, members can utilize this feature to help them achieve progress on their work.
 
 ## Tech used (as many as required)
 1. JavaScript
